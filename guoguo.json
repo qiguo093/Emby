@@ -1,7 +1,7 @@
 {
-  "name":"图标库名称", "description":"图标库介绍", 
+  "name":"𝓚𝓾𝓰𝓾𝓸𝔃𝓪𝓲 🏖️", "description":"个人收藏的透明图标集", 
   "icons":[    
-    {"name":"图标名", "url":"https://raw.githubusercontent.com/qiguo093/emby/main/icons/图片名.PNG"},
+    {"name":"A", "url":"https://raw.githubusercontent.com/qiguo093/emby/main/icons/A.PNG"},
     {"name":"Alpha1", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Alpha1.PNG"}
     ]
 }
