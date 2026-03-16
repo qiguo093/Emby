@@ -1,0 +1,7 @@
+{
+  "name":"图标库名称", "description":"图标库介绍", 
+  "icons":[    
+    {"name":"图标名", "url":"https://raw.githubusercontent.com/qiguo093/emby/main/icons/图片名.PNG"},
+    {"name":"Alpha1", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Alpha1.PNG"}
+    ]
+}
